@@ -1,16 +1,61 @@
-## Hi there 👋
+<h1 align="left">Hi! 👋</h1>
 
-<!--
-**arseniyGoryagin/arseniyGoryagin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">My name is Arseniy, I am a  former CS student, currently focused on Android development and have experience in backend development. I’m currently seeking opportunities in Android development and am passionate about creating intuitive mobile applications.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 align="left">My Android Projects:</h2>
+
+###
+
+<p align="left">Stellar - https://github.com/arseniyGoryagin/Stellar<br>AuthApp - https://github.com/arseniyGoryagin/AuthApp<br>AuthApp_backend - https://github.com/arseniyGoryagin/AuthApp_backend<br>ScrollApp - https://github.com/arseniyGoryagin/ScrollApp<br>ScrollApp_backend -https://github.com/arseniyGoryagin/ScrollApp_backend</p>
+
+###
+
+<h2 align="left">My Other Projects</h2>
+
+###
+
+<p align="left">Kotlin Telegran Api Library - https://github.com/arseniyGoryagin/kotlingram<br>Telegram parser - https://github.com/arseniyGoryagin/Telegram-Scrapper<br>Telegram inviter - https://github.com/arseniyGoryagin/Telegram-Invite</p>
+
+###
+
+<h2 align="left">Learning Repos</h2>
+
+###
+
+<p align="left">C++ Data Structures - https://github.com/arseniyGoryagin/Data-Structures</p>
+
+###
+
+<h2 align="left">My programing languages</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+</div>
+
+###
+
+<h2 align="left">Contacts</h2>
+
+###
+
+<p align="left">Telegram - @</p>
+
+###
+
+<img src="https://raw.githubusercontent.com/arseniyGoryagin/arseniyGoryagin/output/snake.svg" alt="Snake animation" />
+
+###
