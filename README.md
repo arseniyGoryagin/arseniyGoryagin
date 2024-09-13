@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Stellar - https://github.com/arseniyGoryagin/Stellar<br>AuthApp - https://github.com/arseniyGoryagin/AuthApp<br>AuthApp_backend - https://github.com/arseniyGoryagin/AuthApp_backend<br>ScrollApp - https://github.com/arseniyGoryagin/ScrollApp<br>ScrollApp_backend -https://github.com/arseniyGoryagin/ScrollApp_backend</p>
+<p align="left">Stellar (Jetpack compose) - https://github.com/arseniyGoryagin/Stellar<br>AuthApp - https://github.com/arseniyGoryagin/AuthApp<br>AuthApp_backend (Ktor) - https://github.com/arseniyGoryagin/AuthApp_backend<br>ScrollApp  (Jetpack compose) - https://github.com/arseniyGoryagin/ScrollApp<br>ScrollApp_backend (Ktor) - https://github.com/arseniyGoryagin/ScrollApp_backend</p>
 
 ###
 
