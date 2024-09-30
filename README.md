@@ -2,7 +2,10 @@
 
 ###
 
-<p align="left">My name is Arseniy, I am a  former CS student, currently focused on Android development and have experience in backend development. I’m currently seeking opportunities in Android development and am passionate about creating intuitive mobile applications.</p>
+<p align="left">My name is Arseniy, I am a  former CS student, currently focused on Android and Java backend (Spring) development. I have finished school in England and have C2 English level. I’m currently seeking opportunities in Android development and am passionate about creating intuitive mobile applications.</p>
+
+
+
 
 ###
 
@@ -11,6 +14,33 @@
 ###
 
 <p align="left">Stellar (Jetpack compose) - https://github.com/arseniyGoryagin/Stellar<br>AuthApp  (Jetpack compose) - https://github.com/arseniyGoryagin/AuthApp<br>AuthApp_backend (Ktor) - https://github.com/arseniyGoryagin/AuthApp_backend<br>ScrollApp  (Jetpack compose) - https://github.com/arseniyGoryagin/ScrollApp<br>ScrollApp_backend (Ktor) - https://github.com/arseniyGoryagin/ScrollApp_backend<br>kolor (XML) - https://github.com/arseniyGoryagin/kolor</p>
+
+
+
+
+###
+
+<h2 align="left">My Spring Projects:</h2>
+
+###
+
+<p align="left">
+
+Social Media Backend - https://github.com/arseniyGoryagin/Stellar
+<br>Jwt Auth app - https://github.com/arseniyGoryagin/AuthApp
+
+
+</p>
+
+
+
+
+
+
+
+
+
+
 
 ###
 
