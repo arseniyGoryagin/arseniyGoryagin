@@ -56,6 +56,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/arseniyGoryagin/arseniyGoryagin/output/snake.svg" alt="Snake animation" />
 
-###
