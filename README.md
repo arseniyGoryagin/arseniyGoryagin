@@ -26,8 +26,8 @@
 
 <p align="left">
 
-Social Media Backend - https://github.com/arseniyGoryagin/Stellar
-<br>Jwt Auth app - https://github.com/arseniyGoryagin/AuthApp
+Social Media Backend - https://github.com/arseniyGoryagin/SocialMedia_App_Backend
+<br>Jwt Auth app - https://github.com/arseniyGoryagin/JwtAuth
 
 
 </p>
