@@ -9,29 +9,73 @@
 
 ###
 
-<h2 align="left">My Android Projects:</h2>
-
-###
-
-<p align="left">Stellar (Jetpack compose) - https://github.com/arseniyGoryagin/Stellar<br>AuthApp  (Jetpack compose) - https://github.com/arseniyGoryagin/AuthApp<br>AuthApp_backend (Ktor) - https://github.com/arseniyGoryagin/AuthApp_backend<br>ScrollApp  (Jetpack compose) - https://github.com/arseniyGoryagin/ScrollApp<br>ScrollApp_backend (Ktor) - https://github.com/arseniyGoryagin/ScrollApp_backend<br>kolor (XML) - https://github.com/arseniyGoryagin/kolor</p>
-
-
-
-
-###
-
-<h2 align="left">My Spring Projects:</h2>
+<h2 align="left">My Main Projects (Production):</h2>
 
 ###
 
 <p align="left">
 
-Social Media Backend - https://github.com/arseniyGoryagin/SocialMedia_App_Backend
-<br>Jwt Auth app - https://github.com/arseniyGoryagin/JwtAuth
+<h3 align="left">Social media app</h2>
+
+Backend (Spring) - https://github.com/arseniyGoryagin/SocialMedia_App_Backend
+<br>Client (Android/kotlin) - in progress..
 
 
 </p>
 
+
+
+<p align="left">
+
+<h3 align="left">Shoping Application</h2>
+
+Backend (Spring) - in progress...
+<br>Client (Android/kotlin) - in progress..
+
+
+</p>
+
+
+
+---
+
+
+
+###
+
+<h2 align="left">My Side Pet Projects:</h2>
+
+###
+
+<p align="left">
+
+
+
+<h3 align="left">Stellar - Fake api shopping Application</h2>
+
+Custom Backend (Spring) - in progress...</br>
+Client (Andorid/Jetpack compose) - https://github.com/arseniyGoryagin/Stellar
+
+
+<h3 align="left">Jwt Auth Flow application</h2>
+
+Backend (Spring) - https://github.com/arseniyGoryagin/JwtAuth</br>
+Client (Andorid/Jetpack compose) -  https://github.com/arseniyGoryagin/AuthApp
+
+
+
+<h3 align="left">Social Media Feed Application</h2>
+
+Custom Backend (Spring) - https://github.com/arseniyGoryagin/SocialMediaFakeApi</br>
+Client (Andorid/Jetpack compose) -  https://github.com/arseniyGoryagin/ScrollApp
+
+
+
+</p>
+
+
+
+---
 
 
 
@@ -48,7 +92,10 @@ Social Media Backend - https://github.com/arseniyGoryagin/SocialMedia_App_Backen
 
 ###
 
-<p align="left">Kotlin Telegran Api Library - https://github.com/arseniyGoryagin/kotlingram<br>Telegram parser - https://github.com/arseniyGoryagin/Telegram-Scrapper<br>Telegram inviter - https://github.com/arseniyGoryagin/Telegram-Invite</p>
+<p align="left">Kotlin Telegran Api Library - https://github.com/arseniyGoryagin/kotlingram<br>Telegram parser - https://github.com/arseniyGoryagin/Telegram-Scrapper<br>
+Telegram inviter - https://github.com/arseniyGoryagin/Telegram-Invite<br>
+kolor (XML) - https://github.com/arseniyGoryagin/kolor
+</p>
 
 ###
 
