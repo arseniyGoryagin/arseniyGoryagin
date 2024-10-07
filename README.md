@@ -18,7 +18,7 @@
 <h3 align="left">Social media app</h2>
 
 Backend (Spring) - https://github.com/arseniyGoryagin/SocialMedia_App_Backend
-<br>Client (Android/kotlin) - in progress..
+<br>Client (Android/kotlin) - https://github.com/arseniyGoryagin/socialmediaapp (not finished)
 
 
 </p>
