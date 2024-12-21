@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Arseniy, I am a  former CS student, currently focused on Android and Java backend (Spring) development. I have finished school in England and have C2 English level. I’m currently seeking opportunities in Android development and am passionate about creating intuitive mobile applications.</p>
+<p align="left">My name is Arseniy, I am a  former CS student, currently focused on Android and Java backend (Spring) development. I have finished school in England and have C2 English level. I’m currently seeking opportunities in Java backend/fullstask development.</p>
 
 
 
@@ -19,18 +19,30 @@
 
 Backend (Spring) - https://github.com/arseniyGoryagin/SocialMedia_App_Backend
 <br>Client (Android/kotlin) - https://github.com/arseniyGoryagin/socialmediaapp (not finished)
+</p>
 
 
+
+
+<p align="left">
+<h3 align="left">Bible bot</h2>
+
+A telegram bot built in Java with Spring for fetching bible verses 
+<br>
+https://github.com/arseniyGoryagin/BibleBot
+<br>
+**@BiblePassageBot** in telegram
 </p>
 
 
 
 <p align="left">
 
-<h3 align="left">Shoping Application</h2>
+<h3 align="left">Chatting application (in progress)</h2>
 
-Backend (Spring) - in progress...
-<br>Client (Android/kotlin) - in progress..
+A fullstask chatting application built with spring 
+<br>
+https://github.com/arseniyGoryagin/chatr
 
 
 </p>
@@ -124,13 +136,3 @@ kolor (XML) - https://github.com/arseniyGoryagin/kolor
 </div>
 
 ###
-
-<h2 align="left">Contacts</h2>
-
-###
-
-<p align="left">Telegram - @bhbop</p>
-
-###
-
-
