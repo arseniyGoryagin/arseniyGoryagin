@@ -1,13 +1,19 @@
-<h1 align="left">Hi! 👋</h1>
 
-###
+# Hi! 👋
 
-<p align="left">My name is Arseniy, I am a  former CS student, currently focused on  Java backend (Spring) development. I have finished school in England and have C2 English level. I’m currently seeking opportunities in Java backend/fullstask development.</p>
+I'm **Arseniy**, a Java backend developer specializing in Spring with a **C2 English proficiency**. I have a strong foundation in software engineering from my studies in England.
 
+## Key Highlights:
+- Proficient in Java, Spring Boot, Spring Data JPA, RESTful APIs.
+- Experienced in full-stack development, including Android (Kotlin).
+- Developed projects like social media APIs, Telegram bots, and business accounting systems.
+- Fluent in English (C2 level), excellent communication skills.
 
+## Seeking Opportunities:
+Looking for roles in **Java backend** or **full-stack development** where I can contribute and grow.
 
-
-###
+---
+<br>
 
 ## My Projects
 
@@ -74,7 +80,8 @@ kolor (Android(XML)) - https://github.com/arseniyGoryagin/kolor<br>
 
 </p>
 
-###
+---
+<br>
 
 ## Technology Stack   &nbsp;&nbsp;  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="Spring" width="30" height="30"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="30" height="30"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original-wordmark.svg" alt="Kafka" width="30" height="30"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="30" height="30"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="30" height="30">
 
