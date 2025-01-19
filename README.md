@@ -9,67 +9,59 @@
 
 ###
 
-<h2 align="left">My Projects</h2>
-
-###
-
+## My Projects
 
 <p align="left">
-		<h3 align="left">Socialmedia api (Java Spring)</h3>
-	A fully fledged social media api  and android application<br>
-	Backend (Java Spring) -https://github.com/arseniyGoryagin/social-media-api<br>
-	Client (Android/kotlin) - https://github.com/arseniyGoryagin/socialmediaapp 
+  <h3 align="left">Socialmedia API (Java Spring) 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="Spring" width="30" height="30">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="30" height="30">
+  </h3>
+  A fully fledged social media API and Android application<br>
+  <strong>Backend:</strong> <a href="https://github.com/arseniyGoryagin/social-media-api" target="_blank" style="color: blue;">View Backend Repository</a><br>
+  <strong>Client:</strong> <a href="https://github.com/arseniyGoryagin/socialmediaapp" target="_blank" style="color: blue;">View Client Repository</a>
 </p>
-
-
 
 <p align="left">
-		<h3 align="left">Bible bot (Java Spring)</h3>
-		A telegram bot built in Java with Spring for fetching bible verses <br>
-		https://github.com/arseniyGoryagin/BibleBot
-</p>
+  <h3 align="left">Bible Bot (Java Spring) 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="Spring" width="30" height="30">
+  </h3>
+  A Telegram bot built in Java with Spring for fetching Bible verses<br>
 
+<a href="https://github.com/arseniyGoryagin/BibleBot" target="_blank" style="color: blue;">View Repository</a>
+</p>
 
 <p align="left">
-		<h3 align="left">Chatting application api (Java Spring)</h3>
-		Chatting appilcation api built with spring using web sockets<br>
-		https://github.com/arseniyGoryagin/chatr
+  <h3 align="left">Chatting Application API (Java Spring) 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="Spring" width="30" height="30">
+  </h3>
+  Chatting application API built with Spring using WebSockets<br>
+    <a href="https://github.com/arseniyGoryagin/chatr" target="_blank" style="color: blue;">View Repository</a>	
 </p>
-
 
 <p align="left">
-		<h3 align="left">Buissness accounting api (Java Spring)</h3>
-		Buissness accounting api<br>
-		https://github.com/arseniyGoryagin/business-accounting-app
-		
+  <h3 align="left">Business Accounting API (Java Spring) 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="Spring" width="30" height="30">
+  </h3>
+  Business accounting API<br>
+  <a href="https://github.com/arseniyGoryagin/business-accounting-app" target="_blank" style="color: blue;">View Repository</a>
 </p>
-
 
 <p align="left">
-		<h3 align="left">Shopping Application (Android (Compose))</h3>
-		 A fake api shopping Application<br>
-		 https://github.com/arseniyGoryagin/Stellar
-		
+  <h3 align="left">Shopping Application (Android Compose) 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="30" height="30">
+  </h3>
+  A fake API shopping application<br>
+  <a href="https://github.com/arseniyGoryagin/Stellar" target="_blank" style="color: blue;">View Repository</a>
 </p>
-
 
 <p align="left">
-		<h3 align="left">Fake social media feed application</h3>
-		 Backend (Java Spring) - https://github.com/arseniyGoryagin/SocialMediaFakeApi<br>
-		Client (Andorid(Compose)) -  https://github.com/arseniyGoryagin/ScrollApp
-		
+  <h3 align="left">Fake Social Media Feed Application 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="Spring" width="30" height="30">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="30" height="30">
+  </h3>
+	<strong>Backend:</strong> <a href="https://github.com/arseniyGoryagin/SocialMediaFakeApi" target="_blank" style="color: blue;">View Backend Repository</a><br>
+  <strong>Client:</strong> <a href="https://github.com/arseniyGoryagin/ScrollApp" target="_blank" style="color: blue;">View Client Repository</a>
 </p>
-
-
-<p align="left">
-		<h3 align="left">Jwt Auth Flow Application</h3>
-		 Backend (Spring) - https://github.com/arseniyGoryagin/JwtAuth</br>
-		Client (Andorid/Jetpack compose) -  https://github.com/arseniyGoryagin/AuthApp
-</p>
-
-
-
-###
 
 <h2 align="left">My Other Projects</h2>
 
