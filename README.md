@@ -21,7 +21,7 @@ Looking for roles in **Java backend** or **full-stack development** where I can 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="Spring" width="30" height="30">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="30" height="30">
   </h3>
-  A fully fledged social media API and Android application<br>
+  A fully fledged social media backend and Android application<br>
   <strong>Backend:</strong> <a href="https://github.com/arseniyGoryagin/social-media-api" target="_blank" style="color: blue;">View Backend Repository</a><br>
   <strong>Client:</strong> <a href="https://github.com/arseniyGoryagin/socialmediaapp" target="_blank" style="color: blue;">View Client Repository</a>
 </p>
@@ -39,7 +39,7 @@ Looking for roles in **Java backend** or **full-stack development** where I can 
   <h3 align="left">Chatting Application API (Java Spring) 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="Spring" width="30" height="30">
   </h3>
-  Chatting application API built with Spring using WebSockets<br>
+  Chatting application backend built with Spring using WebSockets<br>
     <a href="https://github.com/arseniyGoryagin/chatr" target="_blank" style="color: blue;">View Repository</a>	
 </p>
 
@@ -47,7 +47,7 @@ Looking for roles in **Java backend** or **full-stack development** where I can 
   <h3 align="left">Business Accounting API (Java Spring) 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="Spring" width="30" height="30">
   </h3>
-  Business accounting API<br>
+  Business accounting backend<br>
   <a href="https://github.com/arseniyGoryagin/business-accounting-app" target="_blank" style="color: blue;">View Repository</a>
 </p>
 
