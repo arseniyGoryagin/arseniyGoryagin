@@ -17,7 +17,7 @@ Looking for roles in **Java backend** or **full-stack development** where I can 
 ## My Projects
 
 <p align="left">
-  <h3 align="left">Socialmedia API (Java Spring) 
+  <h3 align="left">Socialmedia Application (Java Spring) 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="Spring" width="30" height="30">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="30" height="30">
   </h3>
@@ -36,7 +36,7 @@ Looking for roles in **Java backend** or **full-stack development** where I can 
 </p>
 
 <p align="left">
-  <h3 align="left">Chatting Application API (Java Spring) 
+  <h3 align="left">Chatting Application (Java Spring) 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="Spring" width="30" height="30">
   </h3>
   Chatting application backend built with Spring using WebSockets<br>
@@ -44,7 +44,7 @@ Looking for roles in **Java backend** or **full-stack development** where I can 
 </p>
 
 <p align="left">
-  <h3 align="left">Business Accounting API (Java Spring) 
+  <h3 align="left">Business Accounting Application (Java Spring) 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="Spring" width="30" height="30">
   </h3>
   Business accounting backend<br>
