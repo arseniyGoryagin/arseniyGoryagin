@@ -25,6 +25,7 @@ Microservice development, along with systems-level work such as protocol impleme
 |---|---|
 | **[go-redis](https://github.com/arseniyGoryagin/go-redis)** | A Redis-compatible database server implemented in Go, covering wire protocol handling, command dispatch, and in-memory storage. |
 | **[go-resp](https://github.com/arseniyGoryagin/go-resp)** | A standalone RESP (Redis Serialization Protocol) library providing a streaming reader and writer for all RESP types. Published as a reusable Go package. |
+| **[go-shell](https://github.com/arseniyGoryagin/go-shell)** | A Unix shell implemented in Go. |
 
 ---
 
